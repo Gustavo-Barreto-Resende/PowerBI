@@ -63,3 +63,38 @@ Em um segundo momento foi criado a coluna Generos, que continha os generos por n
 ![steam](https://user-images.githubusercontent.com/101604551/213531398-d52ca756-4ef3-466f-a949-ad741e6649a5.jpg)
 
 Link do DashBoard: https://app.powerbi.com/links/V_gYrF13XX?ctid=76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61&pbi_source=linkShare&bookmarkGuid=c2ce0d06-b794-43e3-9f0b-6f4bb53386e1
+
+_________________________________________________________________________________________________________________________________
+
+Projeto Copa Qatar
+
+Descrição: Projeto desenvolvido para conhecimento proprio.
+
+O projeto é composto pelo dataset da copa do mundo do Qatar, disponibilizado pelo Kagle.
+
+O dataset utilizado: https://www.kaggle.com/datasets/die9origephit/fifa-world-cup-2022-complete-dataset
+
+Inicialmente os dados foram tratados com remoção de duplicados , nomes em branco, alteração de tipos de dados.
+
+Em um segundo momento os dados foram tratados para segmentarmos os dados por times e categorias.
+
+![fifa](https://user-images.githubusercontent.com/101604551/213533072-f04ef4ea-7a5f-44b9-80c4-ed1fd9dec5c8.jpg)
+
+Link do Dashboard:https://app.powerbi.com/links/dD4s3WPNvc?ctid=76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61&pbi_source=linkShare
+
+___________________________________________________________________________________________________________________________________
+
+Projeto Cartões de Credito Indianos
+
+Descrição: Projeto desenvolvido para conhecimento proprio.
+
+O projeto é composto pelo dataset de compras em cartões de creditos na India, disponibilizado pelo Kagle.
+
+O dataset utilizado: https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
+
+OS dados foram tratados com remoção de duplicados , nomes em branco, alteração de tipos de dados.
+
+![dash india](https://user-images.githubusercontent.com/101604551/213533044-f92d0e3c-832f-4134-9dc4-ecc8687fa0e3.jpg)
+
+
+Link do Dashboard:https://app.powerbi.com/links/E_yLGfocgG?ctid=76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61&pbi_source=linkShare
