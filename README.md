@@ -62,4 +62,4 @@ Em um segundo momento foi criado a coluna Generos, que continha os generos por n
 
 ![steam](https://user-images.githubusercontent.com/101604551/213531398-d52ca756-4ef3-466f-a949-ad741e6649a5.jpg)
 
-Link do DashBoard: https://app.powerbi.com/links/XgkqXklvT5?ctid=76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61&pbi_source=linkShare
+Link do DashBoard: https://app.powerbi.com/links/V_gYrF13XX?ctid=76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61&pbi_source=linkShare&bookmarkGuid=c2ce0d06-b794-43e3-9f0b-6f4bb53386e1
