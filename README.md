@@ -47,6 +47,7 @@ Link do DashBoard: https://app.powerbi.com/links/AH2xy4gevB?ctid=76a2ae5a-9f00-4
 
 _____________________________________________________________________________________________________________
 
+
 Projeto Steam
 
 Descrição: Projeto desenvolvido para conhecimento proprio.
@@ -59,6 +60,6 @@ Inicialmente os dados foram tratados com remoção de duplicados , nomes em bran
 
 Em um segundo momento foi criado a coluna Generos, que continha os generos por nomes para facilitar a segmentação de dados.
 
-![image](https://user-images.githubusercontent.com/101604551/198336347-a600e55e-db80-4bc4-b564-b06c7cd77826.png)
+![steam](https://user-images.githubusercontent.com/101604551/213531398-d52ca756-4ef3-466f-a949-ad741e6649a5.jpg)
 
 Link do DashBoard: https://app.powerbi.com/links/XgkqXklvT5?ctid=76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61&pbi_source=linkShare
